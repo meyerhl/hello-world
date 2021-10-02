@@ -1,7 +1,4 @@
 # hello-world
 test repository
 
-Hello good ladies and gentlemen.
-
-Using this to create my first branch on GitHub. Seems like a
-collaborative environment. Thanks for the free account options!
+This will be a place where I test various code or write ideas.
